@@ -1,0 +1,21 @@
+{
+    "name": "chau-nm/symfony-greeting-bundle",
+    "type": "php",
+    "require": {
+        "php": ">=8.0",
+        "symfony/framework-bundle": "^6.0 || ^7.0"
+
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ChauNm\\SymfonyGreetingBundle\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "chau-nm",
+            "email": "chaunm.146.2001@gmail.com"
+        }
+    ]
+}
