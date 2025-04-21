@@ -1,0 +1,3 @@
+greeting_route:
+  path: /greeting
+  controller: ChauNm\SymfonyGreetingBundle\Controller\GreetingController
